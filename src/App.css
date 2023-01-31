@@ -2,3 +2,13 @@
   text-align: center;
   font-weight: 600;
 }
+
+.AppContainer {
+  display: block;
+  margin-top: 50px;
+  padding: 20px;
+  max-width: 960px;
+  background-color: #fff;
+  border: 2px solid grey;
+  border-radius: 10px;
+}
