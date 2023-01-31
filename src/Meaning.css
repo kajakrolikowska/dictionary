@@ -1,0 +1,9 @@
+.Meanings h5 {
+  padding-left: 20px;
+  text-decoration: underline;
+}
+
+.Meanings p {
+  padding-left: 20px;
+  line-height: 20px;
+}
