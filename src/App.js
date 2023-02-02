@@ -11,7 +11,7 @@ function App() {
           <Dictionary />
         </Container>
         <footer>
-          This app was coded by Kaja Królikowska, it is open-sourced on{" "}
+          This app was coded by Kaja Królikowska, and it is open-sourced on{" "}
           <a
             href="https://github.com/kajakrolikowska/dictionary"
             alt="GitHub repository link"
