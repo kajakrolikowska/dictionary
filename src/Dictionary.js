@@ -31,6 +31,7 @@ export default function Dictionary() {
       <p>Let's check the definition of:</p>
       <form onSubmit={search}>
         <input type="search" autoFocus="true" onChange={handleKeyword} />
+        <input type="submit" value="Search" />
       </form>
       <Results results={results} />
     </div>
