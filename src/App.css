@@ -12,3 +12,13 @@
   border: 2px solid grey;
   border-radius: 10px;
 }
+
+.AppWrap {
+  display: block;
+  padding: 20px;
+  max-width: 960px;
+}
+
+footer {
+  text-align: left;
+}
